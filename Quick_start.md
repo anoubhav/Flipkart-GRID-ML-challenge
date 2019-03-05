@@ -1,5 +1,5 @@
 ### Perform the following steps in the given order:
-1. The **current working directory** should be set to *Flipkart_ML_Squad_Source*.
+1. The **current working directory** should be set to *Flipkart-GRID-ML-challenge*.
    
 2. Execute *prep_data_npy_by4_norm_aug.py*
      * Set the directory paths for following constants in the file:
